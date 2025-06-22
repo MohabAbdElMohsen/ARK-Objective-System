@@ -17,6 +17,6 @@
     "hideInEditor": false,
 
     "dependencies": {
-    "com.genesis.objectivesystem": "https://github.com/MohabAbdElMohsen/Genesis-Objective-System.git"
+    "com.genesis.objectivesystem": "1.0.0"
   }
 }
